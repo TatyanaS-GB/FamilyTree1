@@ -1,5 +1,4 @@
 
-
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
@@ -133,4 +132,3 @@ public class FamilyTree implements Serializable {
         return sb.toString();
     }
 }
-
