@@ -1,12 +1,14 @@
 
 import java.time.LocalDate;
 
+import java.time.LocalDate;
+
 public class Main {
     public static void main(String[] args) {
-//        FamilyTree tree = readTree();
+//       FamilyTree tree = readTree();
         FamilyTree tree = testTree();
-//
-        saveTree(tree);
+
+//        saveTree(tree);
         System.out.println(tree);
     }
 
@@ -42,5 +44,3 @@ public class Main {
         return tree;
     }
 }
-
-
