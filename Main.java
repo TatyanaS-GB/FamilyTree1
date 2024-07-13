@@ -1,6 +1,8 @@
 
 import java.time.LocalDate;
 
+
+
 import java.time.LocalDate;
 
 public class Main {
@@ -8,7 +10,7 @@ public class Main {
 //       FamilyTree tree = readTree();
         FamilyTree tree = testTree();
 
-//        saveTree(tree);
+        saveTree(tree);
         System.out.println(tree);
     }
 
